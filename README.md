@@ -1,7 +1,9 @@
-### Hi there 👋
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andersoncmota&show_icons=true&include_all_commits&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersoncmota&layout=compact&hide=python)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**andersoncmota/andersoncmota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**andersonmotta/andersonmotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
